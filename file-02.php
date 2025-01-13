@@ -38,5 +38,13 @@ switch($payment){
 	default:
 		echo "No Request Found!";
 }
+echo "<br>";
+$a = 13;
+$b = 19;
+$cal =
+$a < $b ? "B is greater then A " : "B is lower then A ";
+
+echo $cal;
+
 
 ?>
