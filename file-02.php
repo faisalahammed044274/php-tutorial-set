@@ -13,5 +13,30 @@ if (strtolower($name) ==='alex'){
 	} else{
 		echo "You are not Alex!";
 	} 
+	
+	
+echo "<br>";
+
+$payment = 1;
+
+if($payment == true){
+	echo "Payment Completed!";
+} elseif($payment == false){
+	echo "Payment Rejected!";
+}else{
+	echo "No request found!";
+}
+
+echo "</br>";
+switch($payment){
+	case true:
+		echo "Payment Successful!";
+	break;
+	case false:
+		echo "Payment Unsuccessful!";
+	break;
+	default:
+		echo "No Request Found!";
+}
 
 ?>
