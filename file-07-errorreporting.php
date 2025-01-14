@@ -1,4 +1,5 @@
 <?php
+
  $var = "Alex";
  /*
  The php.ini file contains configurations to control how errors are reported. Below is a detailed breakdown of the various error reporting constants:
