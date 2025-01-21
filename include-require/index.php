@@ -2,17 +2,9 @@
 
 <body>
     <h2>Hey, This is body.</h2>
+
     <p>
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
-        WordPress is a factory that makes webpages"[11] is a core analogy designed to clarify the functions of WordPress:<br> it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi numquam doloribus soluta amet, harum ducimus placeat nulla quasi laboriosam quis aspernatur porro. Exercitationem saepe at quae quis, reprehenderit explicabo assumenda nostrum iste voluptatum repellendus magni! Incidunt voluptas id reprehenderit quia minima error alias doloremque dolorum, assumenda saepe officiis nam officia praesentium architecto quo tempore harum. Voluptates?
     </p>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
