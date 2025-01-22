@@ -20,7 +20,8 @@ function has_space($string){
     }       
 }
 
-if(has_space("This does not have space")){
+$string2 = "This does have space";
+if(has_space($string2)){
     echo "Has at least one space!";}
 else{
     echo "Has no space!";
