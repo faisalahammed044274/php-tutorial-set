@@ -13,3 +13,5 @@
 </head>
 
 <h1>This is Header.</h1>
+
+<?php $var1 = "Header" ?>
