@@ -3,8 +3,8 @@
 //str_replace(); predefined
 
 
-$find = array('This', 'string','example');
-$replace = array('There', 'integer', 'Math');
+$find = array('This', 'a string','an example');
+$replace = array('THERE', 'AN INTEGER', 'A MATHMETICS');
 
 $string = "This is a string and This is an example project.";
 
