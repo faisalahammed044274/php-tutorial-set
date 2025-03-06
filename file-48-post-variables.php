@@ -1,23 +1,22 @@
 <?php
 
-if (isset($_POST['name'])) {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $password = $_POST['password'];
-
-    echo $name . '<br>';
-    echo $email . '<br>';
-    echo $password . '<br>';
-
-}else {
-    echo 'You can not browse this page directly';
-}
-
+    $match = 'pass123';
+    if (isset($_POST['password'])) {
+        $password = $_POST['password'];
+        if (! empty($password)) {
+            if ($password == $match) {
+                echo 'Password is correct!';
+            } else {
+                echo 'Password is incorrect!';
+            }
+        } else {
+            echo 'Please fill in the password';
+        }
+    }
 ?>
 
-<form action="" method="post">
-    <input type="text" name="name"><br>
-    <input type="email" name="email"> <br>
-    <input type="password" name="password" id=""><br>
+<form method="post"><br> <br>
+    Password: <br>
+    <input type="password" name="password"><br> <br>
     <input type="submit" value="Submit">
 </form>
